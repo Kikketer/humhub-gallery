@@ -38,6 +38,11 @@ class BaseGallery extends ContentActiveRecord
     /**
      * @inheritdoc
      */
+    public $silentContentCreation = true;
+
+    /**
+     * @inheritdoc
+     */
     public static function tableName()
     {
         return 'gallery_gallery';
