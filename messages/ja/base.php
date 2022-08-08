@@ -34,7 +34,6 @@ return array (
   'In case the gallery is not visible for the current user, the snippet will use the latest accessible gallery instead.' => '',
   'Item could not be deleted!' => '',
   'Latest Gallery - {title} ({visibility})' => '',
-  'Make this gallery public' => '',
   'Media' => '',
   'Open Gallery' => '',
   'Posted Media Files' => '',
@@ -42,7 +41,7 @@ return array (
   'Settings' => '設定',
   'Show connected post' => '',
   'Show more' => 'もっと見る',
-  'Size:' => '',
+  'Size:' => 'サイズ:',
   'Sort Order' => '並べ替え順序',
   'Sort order' => '並び順',
   'There are no galleries available for this space. In order to configure the gallery snippet, please <a href="{createLink}">create</a> a new gallery' => '',
@@ -54,6 +53,5 @@ return array (
   'added by ' => '',
   'description' => '',
   'of posted media files' => '',
-  'sort order' => '',
   'title' => '',
 );
